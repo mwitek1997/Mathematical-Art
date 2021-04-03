@@ -1,0 +1,8 @@
+# Fractals!
+The Barnsley Fern can be generated using four affine transformations. The formula utilized for these transformations is the following:
+
+![formula](https://render.githubusercontent.com/render/math?math=f(x,y)= \begin{bmatrix} 
+                                                                            a & b\\
+                                                                            c & d\\
+                                                                            e & f\\
+                                                                          \end{bmatrix})
